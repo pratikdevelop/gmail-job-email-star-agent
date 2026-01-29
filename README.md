@@ -6,8 +6,6 @@ Automatically detects and **stars** important job-related emails in your Gmail i
 Built with **Node.js** + **Google Gmail API**  
 Perfect for job seekers who receive dozens of application updates and don't want to miss critical messages.
 
-![Demo screenshot placeholder](https://via.placeholder.com/800x400?text=Console+Output+Example)  
-*(Add a real screenshot later if you want — console showing starred emails)*
 
 ## ✨ Features
 
