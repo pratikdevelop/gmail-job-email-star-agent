@@ -1,4 +1,4 @@
-```markdown
+
 # Gmail Job Email Star Agent
 
 Automatically detects and **stars** important job-related emails in your Gmail inbox — application confirmations, interview invites, offer letters, and more — especially from popular Indian job portals like **Hirist**, **Naukri**, **Foundit**, **Internshala**, **LinkedIn**, and others.
@@ -150,14 +150,3 @@ Found it helpful?
 → Open issues / submit PRs for improvements
 
 Happy job hunting! 🚀
-```
-
-### Tips before committing
-
-- Replace the placeholder image line with a real screenshot if you take one (upload screenshot.png to repo and update the path).
-- Make sure `app.js`, `index.js`, `.env.example`, `package.json` are all committed.
-- After pushing the README, GitHub will automatically render it nicely on the repo homepage.
-
-If you want any section shorter, longer, or with different tone (more casual / more technical), just tell me and I'll adjust it right away.
-
-Good luck — this README should make your repo look very professional and welcoming!
